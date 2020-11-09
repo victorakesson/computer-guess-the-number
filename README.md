@@ -13,7 +13,6 @@ Vi ska nu vända på steken och göra det motsatta. Vi (människan) ska tänka p
 1. Starta den lokala servern genom att klicka på **Go Live** och titta på sidan i sitt nuvaranda skick. Öppna *Developer Tools* i Chrome.
 2. Kolla igenom källkoden till `index.html`. Vilka element finns i bodyn och hur hänger de ihop med vad du ser på skärmen?
 3. Kolla igenom `index.js`.
-
 Diskutera igenom **uppgiften och den befintliga koden** tillsammans med din grupp. Repetera för varandra vad uppgiften går ut på och vad som är stegen framåt.
 
 **Det är gruppens ansvar att alla förstår vad uppgiften går ut på innan ni sätter igång**. Därefter kan man arbeta enskilt och ta hjälp av varandra vid behov.
